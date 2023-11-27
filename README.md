@@ -22,11 +22,11 @@
 
 Desktop
 
-<img src="./desktop.PNG" >
+<img src="./src/desktop.PNG" >
 
 Mobile
 
-<img src="./mobile.PNG" >
+<img src="./src/mobile.PNG" >
 
 ## 🔗 Links
 
